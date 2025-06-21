@@ -154,7 +154,7 @@ if (is_logged_in()) {
       </div>
       <form method="post" action="">
         <div class="form-group">
-          <label for="password">YANG KERJA KERJA AJA</label>
+          <label for="password">la calma vincerà</label>
           <input type="password" id="password" name="password" required>
         </div>
       </form>
